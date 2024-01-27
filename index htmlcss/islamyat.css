@@ -1,0 +1,56 @@
+.contnier{
+    width: 100%;
+    padding: 0;
+    background-color: teal;
+}
+.col1{
+float: left;
+margin: 15px;
+
+}
+.contnier h1{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+    position: relative;
+    
+}
+.contnier a{
+border: 1px solid black;
+padding: 20px;
+padding-left: 10px;
+padding-left: 10px;
+width: 150px;
+text-decoration: none;
+background-color:lightblue;
+color: black;
+
+}
+.contnier a:hover{
+    background-color: royalblue;
+}
+
+
+
+.footer{
+    background-color:lightslategrey;
+    padding: 80px;
+}
+.INAYAT{
+    color: black;
+    background: violet;
+    padding: 10px;
+}
+.footer p{
+    color: aliceblue;
+
+}
+.footer li{
+    color: aliceblue;
+    font-size: 20px;
+}
+.footer h2{
+  background-color: crimson;
+}
